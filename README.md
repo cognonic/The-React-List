@@ -1,7 +1,7 @@
 
 # :space_invader: The-React-List
 
-When you are stuck using Javascript, React can help with it's component architecture or maybe you will use it becuase it has become a tidal wave... :o: Rant :o: Over 90% of Desktop PC's run Windows and the number of React tools that are not tested on Windows boggles the rational human mind. Even Facebook, has had a long standing issue with both Flow and Nuclide that has only recently as of Sept 2016 are becoming workable.
+When you are stuck using Javascript, React can help with it's component architecture or maybe you will use it becuase it has become a tidal wave... :o: 
 
 # Key Items
 
